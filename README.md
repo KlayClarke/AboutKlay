@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kac123-848
+- 👋 Hi, I’m @KlayClarke
 - 👀 I’m interested in all things research, code, music and film
-- 🌱 I’m currently teaching myself Javascript
+- 🌱 I’m currently teaching myself Python
 - 💞️ I’m looking to collaborate on interesting projects that raise the bar
 - 📫 How to reach me: https://www.linkedin.com/in/klayclarke000/
