@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KlayClarke
 - 👀 I’m interested in all things research, code, music and film
-- 🌱 I’m currently teaching myself how to think like a programmer to hopefully become a better student as I learn my way through life
+- 🌱 I’m currently teaching myself how to think like a programmer, hoping to become a better student as I learn my way through life
 - 💞️ I’m looking to collaborate on interesting projects that raise the bar
 - 📫 How to reach me: https://www.linkedin.com/in/klayclarke000/
